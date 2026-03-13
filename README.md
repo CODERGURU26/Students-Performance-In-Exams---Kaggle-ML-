@@ -715,14 +715,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-**Dataset License**: The Students Performance dataset is available on Kaggle for educational and research purposes.
-
----
-
 ## 📧 Contact & Connect
 
 ### Author
